@@ -18,5 +18,5 @@ The submission demonstrates mature database design and system thinking, clearly 
 
 There are minor scalability and operational detail gaps, but overall, the work is strong, coherent, and well-argued.
 
-Final Verdict:
-Score: 9.2 / 10 (Strong Pass)
+Final:
+Score: 44 / 50 (Strong Pass with 88%)
